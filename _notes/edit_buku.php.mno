@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_edit_buku" value="name:b_id;datatype:int,name:b_kode;datatype:string,name:b_judul;datatype:string,name:b_penulis;datatype:string,name:b_penerbit;datatype:string,name:b_tahun;datatype:int,name:b_jumlah;datatype:int,name:b_stock;datatype:int,name:b_rak;datatype:string" />
+</info>

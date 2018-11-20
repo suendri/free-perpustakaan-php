@@ -1,0 +1,156 @@
+/*------------------------------------------------------------------------
+ * Program ini adalah program Donasi http://phpbego.wordpress.com
+ * Anda hanya saya minta sedikit donasi untuk program ini, tidak lebih.
+ * Jika anda menghargai program saya, silakan anda hubungi saya di 
+
+ * -------------------------------------------------------------------
+ * 085263616901 atau email phpbego@yahoo.co.id, phpbego@gmail.com
+ * -------------------------------------------------------------------
+ *
+ * Rebuild with Bootstrap 2.3.2 Custom
+ * 7 Juni 2013
+ */
+a { text-decoration: none; }
+a:link { color: darkred; }
+a:visited {color: darkred; }
+a:active  {color: darkred; }
+a:hover   {color: blue; background-color: none;}
+
+body {
+    background: #f1f1f1;
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+h2 { 
+	font-size: 16pt;
+	border-bottom: 1px dotted #CCC;
+    padding-bottom: 12px;
+    margin-bottom: 14px;
+}
+
+h4 {
+	margin-top: -10px;
+}
+
+.title-layout {
+	color: #ffffff;
+	text-align: center;
+	margin-right: 30px;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+}
+
+.container {
+	margin : auto;
+}
+
+/** Style layout Halaman Utama */
+.main-layout {
+	background-color:#ffffff;
+    border: 1px solid #CCC;
+	border-radius: 4px;
+}
+
+.main-header {
+	background-image: url(../img/hero.png);
+	background-color: #026fa6;
+    border-bottom: 1px solid #CCC;
+	padding: 6px;
+}
+
+.main-menu {
+	height: 40px;
+	background-color: #1366bb;
+	width: 100%;
+}
+
+.main-konten {
+	padding: 0px 12px;
+}
+/* Footer Layout */
+.footer-layout	{
+  margin: 2px auto;
+  padding: 10px;
+  font-size: 12px;
+ }
+
+.TableHomeJudul { 
+	padding:8px; 
+	border-bottom: 1px solid #D0D0D0; 
+	border-right: 1px solid #D0D0D0; 
+	border-top: 1px solid #D0D0D0; 
+	border-left: 1px solid #D0D0D0; 
+	font-size:14px; 
+	font-weight:bold; 
+	background-color: #1366bb; 
+	color: #fff; 
+}
+
+.TableHomeJudulRows { 
+	padding:10px; 
+	border-bottom: 1px solid #D0D0D0; 
+	border-right: 1px solid #D0D0D0;
+	border-left: 1px solid #D0D0D0; 
+	text-align:justify; 
+	background-color: #fff;
+}
+
+
+/* Grid Table */
+table.gridtable {
+	font-family: 'Droid Sans', Arial, Helvetica, sans-serif; 
+	font-size:11pt;
+	color:#000000;
+	border-width: 1px;
+	border-color: #000000;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table.gridtable th {
+	background-color: #1366bb;
+	color : #fff;
+	border-width: 1px;	
+	border-style: solid;	
+	border-color: silver;	
+	padding: 8px;
+}
+
+table.gridtable td {
+	background-color: #fff;
+	border-width: 1px;
+	padding: 4px;
+	border-style: solid;
+	border-color: silver;
+}
+.footer {
+ height: 30px;
+ padding : 10px;
+ color : #000;
+}
+.clear {
+	height : 45px;
+	}
+.clearMain {
+	height : 10px;
+	}
+	
+/* Tambahan untuk Datepicker */
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../img/glyphicons-halflings.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+.icon-th {
+  background-position: -240px 0;
+}

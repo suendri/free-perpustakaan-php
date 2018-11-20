@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_show_user" value="name:p_id;datatype:int,name:p_uname;datatype:string,name:p_password;datatype:string,name:p_level;datatype:int,name:p_nonaktif;datatype:string" />
+</info>

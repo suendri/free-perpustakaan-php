@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_show_denda" value="name:d_ID;datatype:int,name:d_kategori;datatype:string,name:d_juml;datatype:int,name:d_aktif;datatype:string" />
+	<infoitem key="UD_rec_show_pinjam" value="name:AA;datatype:int,name:AB;datatype:string,name:AC;datatype:string,name:AD;datatype:string,name:AE;datatype:string,name:AF;datatype:int,name:AH;datatype:date,name:AI;datatype:date,name:AJ;datatype:int,name:AK;datatype:string" />
+</info>

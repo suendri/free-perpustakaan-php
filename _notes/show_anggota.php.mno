@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_show_anggota" value="name:a_id;datatype:int,name:a_nama;datatype:string,name:a_ttl;datatype:string,name:a_jk;datatype:string,name:a_alamat;datatype:string,name:a_hp;datatype:string,name:a_ket;datatype:blob,name:a_tgl;datatype:timestamp,name:a_nonaktif;datatype:string" />
+</info>

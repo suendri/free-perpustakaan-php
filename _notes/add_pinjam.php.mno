@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_show_denda" value="name:d_ID;datatype:int,name:d_kategori;datatype:string,name:d_juml;datatype:int,name:d_aktif;datatype:string" />
+	<infoitem key="UD_rec_anggota_pinjam" value="name:a_id;datatype:int,name:a_nama;datatype:string" />
+	<infoitem key="UD_rec_buku_pinjam" value="name:b_id;datatype:int,name:b_kode;datatype:string,name:b_judul;datatype:string" />
+	<infoitem key="UD_rec_buku_stock" value="name:b_id;datatype:int,name:b_stock;datatype:int" />
+</info>

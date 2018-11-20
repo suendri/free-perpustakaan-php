@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_show_kembali" value="name:AA;datatype:int,name:t_idanggota;datatype:int,name:AB;datatype:string,name:AC;datatype:string,name:AD;datatype:string,name:AE;datatype:string,name:AF;datatype:int,name:AH;datatype:date,name:AI;datatype:date,name:AJ;datatype:string,name:a_id;datatype:int,name:AK;datatype:string" />
+</info>

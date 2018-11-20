@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_show_denda" value="name:d_ID;datatype:int,name:d_kategori;datatype:string,name:d_juml;datatype:int,name:d_aktif;datatype:string" />
+</info>
